@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+*/node_modules/
+
+# Build artifacts
+dist/
+frontend/dist/
+build/
+*.egg-info/
+
+# Python cache & virtual environments
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+env/
+venv/
+.venv/
+ENV/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary workspace items
+temp_skill/
+*.log
