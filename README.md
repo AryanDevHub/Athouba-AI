@@ -1,6 +1,10 @@
-# 🏛️ National Sports Talent Identification & Biomechanical Kinematics Portal
-### Government of Manipur & Sports Authority of India (SAI) Regional Centre, Imphal
-**Official AI Solution for Problem Statements YAS-01 (Talent Identification) & YAS-02 (Athlete Technique Analysis)**
+# 🏛️ Athouba AI (अथौबा)
+### Grassroots Sports Talent Identification & Biomechanical Kinematics Portal
+**Built for the AI4Seva Hackathon**  
+*Official AI Solution for Ministry of Youth Affairs & Sports (MYAS) & Sports Authority of India (SAI) Regional Centre, Imphal*  
+*Addressing Problem Statements: **YAS-01** (Grassroots Talent Identification) & **YAS-02** (Biomechanical Performance Analysis)*
+
+> **Note on Name:** *"Athouba"* (अथौबा) is the Meiteilon (Manipuri) word for **"hero"**, **"champion"**, or **"brave warrior"** — representing the grassroots athletic talent across Manipur. **AI4Seva** is the hackathon challenge under which this platform was architected.
 
 ---
 
@@ -16,7 +20,7 @@
 
 ---
 
-## 🎯 How AI4Seva Solves the Problem Statements
+## 🎯 How Athouba AI Solves the Problem Statements
 
 ### 1. YAS-01: AI-Based Sports Talent Identification
 - **Standardized Unique Identification**: Every athlete receives an official **Khel ID** (`KHEL-IND-MN-YYYY-XXXX`) and **NSIS ID**, preventing duplicate profiles and standardizing records across state clubs, school games, and national championships.
@@ -110,17 +114,18 @@ The portal is seeded with real Manipur athletes, Olympians, Commonwealth champio
 > *"Respected Judges, Manipur is India’s sports powerhouse, producing Olympic legends like Mirabai Chanu and national football heroes like Suresh Singh. Yet, dozens of extraordinary talents in hill districts like Ukhrul, Churachandpur, and Tamenglong never get scouted due to geographic isolation and fragmented club records. That is the core challenge of Problem Statement **YAS-01**.*
 >
 > **The Solution (60s)**:
-> *"We built **AI4Seva** — the National Sports Talent Identification & Biomechanical Kinematics Portal, engineered strictly to the standards of the Ministry of Youth Affairs & Sports and the Sports Authority of India.*
+> *"We built **Athouba AI (अथौबा)** for the **AI4Seva Hackathon** — the National Sports Talent Identification & Biomechanical Kinematics Portal, engineered strictly to the standards of the Ministry of Youth Affairs & Sports and the Sports Authority of India.*
+> *'Athouba' in Meiteilon means 'the brave champion' — and our mission is to empower every young champion in Manipur.*
 > *First, we establish a single source of truth using standardized **Khel IDs** (`KHEL-IND-MN-XXXX`).*
-> *Second, we integrate real-world match performance histories — showing clubs played for, goals, appearances, and the last 5 matches.*
-> *Third, our AI scoring engine benchmarks an athlete's physical battery test against national norms to calculate a Composite Talent Index and identify **Grassroots Breakthrough Prospects**.*
+> *Second, we integrate real-world match performance histories — showing clubs played for, goals, appearances, and verified match cards.*
+> *Third, our computer vision and AI scoring engine benchmarks an athlete's physical battery test against national norms to calculate a Composite Talent Index and identify **Grassroots Breakthrough Prospects**.*
 >
 > **The Live Demo (60s)**:
 > *(Open `http://127.0.0.1:8000`)*
-> *1. Show the official SAI & MYAS header with the Light/Dark mode toggle.*
+> *1. Show the official SAI & MYAS header with the Light/Dark mode toggle and Athouba AI brand.*
 > *2. Click on **'AI Comparison'** and compare 16-year-old grassroots prospect **V. Paominthang Haokip** from Churachandpur against senior India star **Suresh Singh Wangjam**. Show how the AI scout highlights that Paominthang’s 30m sprint (3.78s) and VO2 max (59.2) already rival senior national standards.*
-> *3. Click on **'Breakthrough Prospects'** to show the top 10 talent prospects flagged across Manipur’s hill districts.*
+> *3. Click on **'Breakthrough Prospects'** to show the top talent prospects flagged across Manipur’s hill districts.*
 > *4. Click on **'Live Sports APIs'** to show judges our transparent API integration strategy with API-Football, TheSportsDB, and NSIS.*
 >
 > **Closing (30s)**:
-> *"AI4Seva turns sports talent identification from subjective guesswork into an objective, data-backed national pipeline. It is not a gimmick — it is built with official government design standards, real athlete records, and an actionable roadmap for the Khelo India and TOPS pathways. Thank you!"*
+> *"Athouba AI turns grassroots sports talent identification from subjective guesswork into an objective, data-backed national pipeline. It is not a gimmick — it is built with official government design standards, real athlete records, and an actionable roadmap for the Khelo India and TOPS pathways. Thank you!"*

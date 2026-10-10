@@ -46,10 +46,10 @@ export default function Navbar({ activeTab, setActiveTab, user, onOpenLogin, onL
           />
           <div>
             <div style={{ fontSize: '0.95rem', fontWeight: 900, color: '#1e3a8a', display: 'flex', alignItems: 'center', gap: '5px', lineHeight: 1.2 }}>
-              KheloTalent <span style={{ color: '#d97706' }}>ID</span>
+              Athouba <span style={{ color: '#d97706' }}>AI</span>
             </div>
             <div style={{ fontSize: '0.62rem', color: '#64748b', fontWeight: 600 }}>
-              SAI • YAS-01
+              AI4Seva • SAI YAS-01
             </div>
           </div>
         </div>
@@ -317,10 +317,10 @@ export default function Navbar({ activeTab, setActiveTab, user, onOpenLogin, onL
               {/* Portal Title */}
               <div>
                 <div style={{ fontSize: '1.25rem', fontWeight: 900, color: '#1e3a8a', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                  AI4Seva <span style={{ color: '#d97706' }}>Athouba AI</span>
-                  {/* <span className="badge" style={{ background: '#e0f2fe', color: '#0369a1', border: '1px solid #bae6fd', fontSize: '0.64rem', padding: '1px 6px' }}>
-                    YAS-01 TALENT ID
-                  </span> */}
+                  Athouba <span style={{ color: '#d97706' }}>AI</span>
+                  <span className="badge" style={{ background: '#fef3c7', color: '#b45309', border: '1px solid #fde68a', fontSize: '0.65rem', padding: '1px 7px', fontWeight: 800 }}>
+                    AI4Seva
+                  </span>
                 </div>
                 <div style={{ fontSize: '0.72rem', color: '#64748b', display: 'flex', alignItems: 'center', gap: '4px' }}>
                   <MapPin size={11} color="#15803d" />

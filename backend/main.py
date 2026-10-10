@@ -30,7 +30,7 @@ os.makedirs(PROCESSED_DIR, exist_ok=True)
 # Initialize Database
 init_db()
 
-app = FastAPI(title="National Sports Talent Identification & Biomechanical Kinematics Portal (Manipur)", version="2.0.0")
+app = FastAPI(title="Athouba AI | National Sports Talent Identification & Biomechanical Kinematics Portal (Manipur) - AI4Seva", version="2.0.0")
 
 # Enable CORS
 app.add_middleware(
